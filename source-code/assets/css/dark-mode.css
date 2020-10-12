@@ -1,0 +1,146 @@
+[data-theme="dark"] {
+  background-color: #222 !important;
+  color: #fff;
+}
+
+[data-theme="dark"] .card {
+  background-color: #303030 !important;
+  border: 1px solid rgba(0,0,0,0.125);
+}
+
+[data-theme="dark"] .card-header {
+  background-color: #444 !important;
+  border-bottom: 1px solid rgba(0,0,0,0.125);
+}
+
+[data-theme="dark"] .card-footer {
+  background-color: #444 !important;
+  border-top: 1px solid rgba(0,0,0,0.125);
+}
+
+[data-theme="dark"] .modal-content {
+  background-color: #303030 !important;
+  border-top: 1px solid #444;
+}
+
+[data-theme="dark"] .modal-body {
+  background-color: #303030 !important;
+  /*border-top: 1px solid #444;*/
+}
+
+[data-theme="dark"] .modal-title {
+  border-bottom: 1px solid #444;
+}
+
+[data-theme="dark"] .modal-footer {
+  border-top: 1px solid #444;
+}
+
+
+[data-theme="dark"] .nav-tabs {
+  border-top: 1px solid #444;
+}
+
+[data-theme="dark"] .nav-tabs-a {
+  color: #fff;
+}
+
+[data-theme="dark"] .custom-control-label{
+  color: #fff;
+}
+
+[data-theme="dark"] .navbar-brand{
+  color: #fff;
+}
+
+[data-theme="dark"] .navbar-nav .nav-link{
+  color: #fff;
+}
+
+[data-theme="dark"] hr{
+  border-top: 1px solid #fff;
+}
+
+[data-theme="dark"] .navbar-toggler span{
+  color: #fff;
+}
+
+
+[data-theme="dark"] .nav-tabs .nav-link:hover, [data-theme="dark"] .nav-tabs .nav-link:focus {
+  border-color: #444 #444 transparent;
+}
+
+[data-theme="dark"] .nav-tabs .nav-link.active,
+[data-theme="dark"] .nav-tabs .nav-item.show .nav-link{
+  color: #fff;
+  background-color: #222;
+  border-color: #444 #444 transparent;
+}
+
+[data-theme="dark"] .nav-pills .nav-link.active,
+[data-theme="dark"] .nav-pills .show > .nav-link{
+  color: #fff;
+  background-color: #375a7f;
+}
+
+[data-theme="dark"] .bg-black {
+  background-color: #eee !important;
+}
+
+[data-theme="dark"] .bg-light {
+  background-color: #999 !important;
+}
+
+[data-theme="dark"] .bg-dark {
+  background-color: #303030 !important;
+}
+
+[data-theme="dark"] .bg-white {
+  background-color: #fff !important;
+}
+
+[data-theme="dark"] .form-control,
+[data-theme="dark"] .form-control:active,
+[data-theme="dark"] .form-control:focus {
+  color: #fff;
+  /*Change text in autofill textbox */
+}
+[data-theme="dark"] .form-control:-webkit-autofill,
+[data-theme="dark"] .form-control:active:-webkit-autofill,
+[data-theme="dark"] .form-control:focus:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 50px #343a40 inset;
+  /* Change the color to your own background color */
+  -webkit-text-fill-color: #fff;
+}
+
+[data-theme="dark"] .form-control::-webkit-input-placeholder,
+[data-theme="dark"] .form-control:active::-webkit-input-placeholder,
+[data-theme="dark"] .form-control:focus::-webkit-input-placeholder {
+  color: #888;
+}
+
+[data-theme="dark"] .form-control:-ms-input-placeholder,
+[data-theme="dark"] .form-control:active:-ms-input-placeholder,
+[data-theme="dark"] .form-control:focus:-ms-input-placeholder {
+  color: #888;
+}
+
+[data-theme="dark"] .form-control::-ms-input-placeholder,
+[data-theme="dark"] .form-control:active::-ms-input-placeholder,
+[data-theme="dark"] .form-control:focus::-ms-input-placeholder {
+  color: #888;
+}
+
+[data-theme="dark"] .form-control::placeholder,
+[data-theme="dark"] .form-control:active::placeholder,
+[data-theme="dark"] .form-control:focus::placeholder {
+  color: #888;
+}
+[data-theme="dark"] .input-group-text {
+  border-color: #454d55;
+  background-color: #4b545c;
+  color: #fff;
+}
+[data-theme="dark"] .table{
+  color: #fff;
+}
